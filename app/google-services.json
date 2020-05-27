@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633566454801",
+    "firebase_url": "https://jondeufind.firebaseio.com",
+    "project_id": "jondeufind",
+    "storage_bucket": "jondeufind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633566454801:android:b7bffddd744e24d59e7db0",
+        "android_client_info": {
+          "package_name": "com.jondeu.find"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633566454801-6c2jrt3knqtt080e299dedul2l3nv9g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAC0O1CbP9Y6MWWEkO0daHfKbi22hKFZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633566454801-6c2jrt3knqtt080e299dedul2l3nv9g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
